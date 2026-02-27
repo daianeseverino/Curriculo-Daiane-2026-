@@ -12,8 +12,9 @@ O site está em constante evolução, acompanhando meu aprendizado e aprimoramen
 
 ## 🌐 Acesse o projeto
 
-[Visualizar site](https://seuusuario.github.io/nome-do-repositorio/)
+[Visualizar site](https://daianeseverino.github.io/Curriculo-Daiane-2026-/)
 
 ## 📌 Objetivo
+
 
 Desenvolver um currículo digital responsivo e funcional, aplicando boas práticas de estrutura, organização e estilização, enquanto avanço na minha transição para a área de desenvolvimento.
